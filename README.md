@@ -35,6 +35,8 @@ Hopefully, this helps other developers and designers who want a clean, professio
 
 ## 🎬 Demo Preview
 
+🔗 **Try it here:** [Responsive Strip Gallery on CodePen](https://codepen.io/meera9/pen/ZExBOBj)
+
 ![Gallery Demo](https://github.com/Meera9/responsive-image-strip-gallery-fixed-columns/blob/main/Responsive%20Image%20Strip%20Gallery%20Fixed%20Columns.mp4)
 
 > 💡 If you’re using Squarespace or any CMS that supports custom code injection,  
