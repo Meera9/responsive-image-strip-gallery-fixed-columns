@@ -20,11 +20,32 @@ Hopefully, this helps other developers and designers who want a clean, professio
 
 ## 🚀 Features
 
+✅ 📸 Clean, balanced layout for portrait + landscape images  
+✅ ⚡ Fully responsive (works on all devices)  
 ✅ Fixed number of columns per row (e.g., 5 desktop, 4 tablet, 3 mobile)  
 ✅ Clean and modern design using CSS Flexbox  
-✅ Lightweight — no jQuery or frameworks required  
 ✅ Loads images one-by-one with fade-in animation  
 ✅ Works perfectly when embedded in **Squarespace Code Blocks**
+✅ 🧱 Fixed column layout using Flexbox  
+✅ 💻 Works in Squarespace, WordPress, or any static HTML site  
+✅ 🧠 100% Vanilla JS — no frameworks required  
+✅ 🔍 SEO-friendly and lightweight  
+
+---
+
+## 🎬 Demo Preview
+
+![Gallery Demo](https://github.com/Meera9/responsive-image-strip-gallery-fixed-columns/blob/main/Responsive%20Image%20Strip%20Gallery%20Fixed%20Columns.mp4)
+
+> 💡 If you’re using Squarespace or any CMS that supports custom code injection,  
+> you can copy the HTML + CSS from this repository and enjoy a fully functional gallery with fixed columns.
+
+---
+
+## 🧩 How It Works
+
+The script dynamically adjusts image widths and heights per row while maintaining proper aspect ratios.  
+It ensures all rows align evenly across a fixed number of columns using Flexbox layout principles.
 
 ---
 
@@ -32,6 +53,14 @@ Hopefully, this helps other developers and designers who want a clean, professio
 
 Squarespace does not support **flex gallery with fixed column width** by default.  
 With this project, users can easily inject **custom CSS and JS** to build a professional grid-style gallery that aligns perfectly.
+
+---
+
+## 🛠️ Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Meera9/responsive-image-strip-gallery-fixed-columns.git
 
 ---
 
