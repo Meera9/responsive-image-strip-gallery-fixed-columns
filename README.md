@@ -95,6 +95,14 @@ Full-stack Developer | Laravel & Vue & ReactJs Expert | Squarespce
 
 ---
 
+## 💖 Support My Work
+
+If you found this gallery helpful and want to support my creative work, you can do so here:
+
+- [💸 PayPal Me](https://paypal.me/meerathanki411)
+
+---
+
 ## 🪪 License
 
 MIT — free for personal and commercial use.
