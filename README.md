@@ -89,8 +89,9 @@ All images are from [Unsplash](https://unsplash.com) (royalty-free).
 
 ## 🧑‍💻 Author
 
-**Developed by [Mirali Thanki](https://github.com/Meera9)**  
+**Developed by [Mirali Thanki](https://github.com/Meera9)**
 Full-stack Developer | Laravel & Vue & ReactJs Expert | Squarespce
+[LinkedIn Profile](https://www.linkedin.com/in/mirali-thanki-4487b3122/)
 
 ---
 
