@@ -22,14 +22,12 @@ Hopefully, this helps other developers and designers who want a clean, professio
 
 ✅ 📸 Clean, balanced layout for portrait + landscape images  
 ✅ ⚡ Fully responsive (works on all devices)  
-✅ Fixed number of columns per row (e.g., 5 desktop, 4 tablet, 3 mobile)  
-✅ Clean and modern design using CSS Flexbox  
-✅ Loads images one-by-one with fade-in animation  
-✅ Works perfectly when embedded in **Squarespace Code Blocks**
-✅ 🧱 Fixed column layout using Flexbox  
-✅ 💻 Works in Squarespace, WordPress, or any static HTML site  
+✅ 🧱 Fixed number of columns per row (e.g., 5 desktop, 4 tablet, 3 mobile)  
+✅ 🎨 Clean and modern design using CSS Flexbox  
+✅ 🪄 Loads images one-by-one with fade-in animation  
 ✅ 🧠 100% Vanilla JS — no frameworks required  
 ✅ 🔍 SEO-friendly and lightweight  
+✅ 💻 Works perfectly when embedded in **Squarespace Code Blocks**
 
 ---
 
